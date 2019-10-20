@@ -729,3 +729,8 @@ body{
     border-radius: 10%;
     background-color: #dadada;
 }
+@media only screen and (max-width: 376px){
+  .buttonMob{
+    display: none;
+}
+}
